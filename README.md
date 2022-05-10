@@ -1,5 +1,5 @@
 # WEEKS
-- 1 https://tinyurl.com/mr2rmsp8
+1 https://tinyurl.com/mr2rmsp8
 
 # TRELLO
 https://trello.com/b/n5ucQaij/challenge-ds-week-1
